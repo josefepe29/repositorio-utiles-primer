@@ -1,4 +1,4 @@
 1. Lapiz
 2. Borrador
-3. Tijeras
 4. Colores
+3. Tijeras
